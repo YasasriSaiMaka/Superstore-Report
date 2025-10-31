@@ -52,7 +52,3 @@ If you’d like to suggest improvements:
 
 👉 This project highlights **data analytics and visualization skills** using Power BI, focusing on **sales trends, profitability, and customer insights**. It’s useful for retail and business managers to enhance decision-making and optimize performance.
 
----
-
-Would you like me to include a short **“Key Insights”** section (like top-performing regions, best product category, etc.) to make your README stand out even more?
-**
