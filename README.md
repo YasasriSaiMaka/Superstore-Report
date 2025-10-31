@@ -38,7 +38,7 @@ This project focuses on analyzing **Superstore sales data** to uncover key insig
 
 ## 📊 Power BI Dashboard
 
-![Dashboard Preview](Superstore_Analysis.jpg)
+![Dashboard Preview](Superstore_Analysis.png)
 
 ## 🤝 How to Contribute
 
